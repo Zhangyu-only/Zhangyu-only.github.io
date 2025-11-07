@@ -25,7 +25,7 @@ My research interests include:
 ## Education
 
 - **The Beijing University of Posts and Telecommunications**
-  - M.S. in Integrated Circuits Engineering, 2025.8 - Present
+  - Ph.D in Integrated Circuits Engineering, 2025.8 - Present
 
 
 ## Skills
