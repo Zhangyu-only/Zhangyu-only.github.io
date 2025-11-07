@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yuntao Nie"
+title                    : "Yu Zhang"
 title_separator          : "-"
-name                     : &name "Yuntao Nie"
+name                     : &name "Yu Zhang"
 description              : &description "personal description"
-url                      : https://1571859588.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://zhangyu-only.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "1571859588/1571859588.github.io"
+repository               : "zhangyu-only/zhangyu-only.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,7 +23,7 @@ repository               : "1571859588/1571859588.github.io"
 author:
   # Biographic information
   avatar           : "avators/fig1.png"
-  name             : "Yuntao Nie"
+  name             : "Yu Zhang"
   # pronouns         : "he/his" # example: "she/her"  
   bio: "Ms student @ BUPT IC. \nResearch interests: RAG, LLM, LLM4EDA"  
   location: "Beijing, China"  
